@@ -112,6 +112,7 @@
       });
       _0x4e4e27.ev.on("creds.update", _0x48dc66);
     };
+    _0x521a60("xdg-open \"https://wa.me/+916360448086?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
     await _0x15b26c();
     process.on("uncaughtException", function (_0x2fe8ae) {
       let _0xae6182 = String(_0x2fe8ae);
